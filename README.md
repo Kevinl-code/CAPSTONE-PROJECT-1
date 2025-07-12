@@ -1,4 +1,4 @@
 # CAPSTONE-PROJECT-1
 
-## Author
+# Author
 Kevin Lazarus
